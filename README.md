@@ -1,5 +1,7 @@
 #TaskFlow Website
+
 A responsive one-page website built with HTML, CSS, and JavaScript for the fictional TaskFlow app.
+
 ##Features
 
 Modern, mobile-friendly design
@@ -11,6 +13,7 @@ Footer with contact links and social media icons
 Includes small animation effects when scrolling to each section
 
 ##Getting Started
+
 ###Installation
 
 1. Clone this repository:
